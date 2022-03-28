@@ -1,0 +1,9 @@
+booking:
+   max-attempts: 5
+   available-options: hotel,flight,test
+
+managment:
+    endpoints:
+        web:
+            exposure:
+                include: '*'

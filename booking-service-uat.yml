@@ -1,0 +1,12 @@
+server:
+    port: 8081
+    
+booking:
+   max-attempts: 3
+   available-options: hotel,flight
+
+managment:
+    endpoints:
+        web:
+            exposure:
+                include: '*'
