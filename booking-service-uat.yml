@@ -3,7 +3,6 @@ server:
     
 booking:
    max-attempts: 3
-   available-options: hotel,flight
 
 managment:
     endpoints:
