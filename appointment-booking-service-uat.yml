@@ -3,6 +3,7 @@ server:
     
 booking:
    max-attempts: 3
+   availableDoctos: villamil,ramos,perea
 
 managment:
     endpoints:

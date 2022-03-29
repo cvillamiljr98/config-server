@@ -1,5 +1,6 @@
 booking:
    max-attempts: 5
+   availableDoctors: villamil,ramos,perea,ramirez
 
 managment:
     endpoints:
